@@ -1,0 +1,121 @@
+---
+matsumoto:
+  length: 551
+  bore:
+    diameter:
+      top: 18
+      bottom: 18
+  hole:
+    diameter: 11
+    from_top:
+      5: 233
+      4: 264
+      3: 322
+      2: 375
+      1: 428
+    from_hole_below:
+      5: 31
+      4: 58
+      3: 53
+      2: 53
+tanimura:
+  length: 550
+  bore:
+    diameter:
+      top: 19
+      bottom: 19
+  hole:
+    diameter: 11
+    from_top:
+      5: 227
+      4: 259
+      3: 317
+      2: 371
+      1: 423
+    from_hole_below:
+      5: 32
+      4: 58
+      3: 54
+      2: 52
+matsuda:
+  length: 548
+  bore:
+    diameter:
+      top: 21
+      bottom: 17
+  hole:
+    diameter: 11
+    from_top:
+      5: 224
+      4: 256
+      3: 317
+      2: 369
+      1: 420
+    from_hole_below:
+      5: 32
+      4: 61
+      3: 52
+      2: 51
+tanso:
+  length: 405
+  bore:
+    diameter:
+      top: 13
+      bottom: 13
+  utaguchi:
+    depth: 3
+  hole:
+    diameter: 5
+    from_top:
+      5: 174
+      4: 203
+      3: 240
+      2: 299
+      1: 336
+    from_hole_below:
+      5: 23
+      4: 12
+      3: 55
+      2: 13
+taiwan:
+  製作者: 高來圭
+  length: 719
+  bore:
+    diameter:
+      top: 0
+      bottom: 0
+  歌口:
+    depth: 0
+  hole:
+    diameter: 0
+    from_top:
+      5: 300
+      4: 358
+      3: 413
+      2: 612
+      1: 675
+    from_hole_below:
+      5: 0
+      4: 0
+      3: 0
+      2: 0
+standard:
+  length: 549.6
+  hole:
+    from_top:
+      5: 228.0
+      4: 259.6
+      3: 318.6
+      2: 371.6
+      1: 423.6
+  製作者: 理論的
+foundling:
+  製作者: 高來圭
+  length: 610
+  hole:
+    from_top:
+      "1": 470.15140
+      "2": 412.43320
+      "3": 353.61090
+      "4": 288.12740
+      "5": 253.05240
